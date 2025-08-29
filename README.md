@@ -42,7 +42,7 @@ Several inputs originate from DataStream/Robeco/Ken French libraries. Files from
 ```
 Documentation/GeensLuna-2024.pdf – full thesis
 Documentation/Samenvatting_Journalistic.pdf – readable summary; can be found in a more updated version on my Linkedin (See Link repo). 
-Tests/Main Results/Data_Monthly.ipynb – main analysis pipeline
+Tests/Main Results/Data_Monthly.ipynb and Models_Monthly.ipynb – main analysis pipeline
 Tests/Main Results/Monthly Results.xlsx – portfolio/alpha results
 ```
 
